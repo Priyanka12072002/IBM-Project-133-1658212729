@@ -59,8 +59,8 @@
     - [x] [Proposed Solution](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20I/Proposed%20Solution.pdf)
     - [x] [Problem-Solution Fit](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20I/Problem-Solution%20Fit.png)
     - [x] [Solution Architecture](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20I/Solution%20Architecture.jpg)
-  - [ ] Project Design Phase - II
-    - [ ] Customer Journey Map
+  - [ ] [Project Design Phase - II](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20II)
+    - [x] [Customer Journey Map](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20II/Customer%20Journey%20Map.png)
     - [ ] Functional Requirements
     - [ ] Data Flow Diagram
     - [ ] Technology Architecture
