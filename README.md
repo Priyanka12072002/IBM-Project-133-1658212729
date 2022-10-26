@@ -80,23 +80,23 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Assignments 
 </h2>
 
-- [ ] [Team Lead](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Team%20Lead)
+- [x] [Team Lead](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Team%20Lead)
   - [x] [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Lead/Assignment%201.ipynb)
   - [x] [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Lead/Assignment%202.ipynb)
   - [x] [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Lead/Assignment%203.ipynb)
-  - [ ] Assignment 4
-- [ ] [Team Member 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Team%20Member%201)
+  - [x] [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Lead/Assignment%204.ipynb)
+- [x] [Team Member 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Team%20Member%201)
   - [x] [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%201/Assignment%201.ipynb)
   - [x] [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%201/Assignment_2.ipynb)
   - [x] [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%201/Assignment_3.ipynb)
-  - [ ] Assignment 4
-- [ ] [Team Member 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Team%20Member%202)
+  - [x] [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%201/Assignment_4.ipynb)
+- [x] [Team Member 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Team%20Member%202)
   - [x] [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%202/Assignment%201.ipynb)
   - [x] [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%202/Assignment%202.ipynb)
   - [x] [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%202/Assignment%203.ipynb)
-  - [ ] Assignment 4
-- [ ] [Team Member 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Team%20Member%203)
+  - [x] [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%202/Assignment_4.ipynb)
+- [x] [Team Member 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Team%20Member%203)
   - [x] [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%203/Assignment%201.ipynb)
   - [x] [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%203/ASSIGNMENT_2.ipynb)
   - [x] [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%203/ASSIGNMENT_3.ipynb)
-  - [ ] Assignment 4
+  - [x] [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%203/ASSIGNMENT_4.ipynb)
