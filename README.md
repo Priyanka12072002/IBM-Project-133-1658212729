@@ -59,14 +59,13 @@
     - [x] [Proposed Solution](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20I/Proposed%20Solution.pdf)
     - [x] [Problem-Solution Fit](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20I/Problem-Solution%20Fit.png)
     - [x] [Solution Architecture](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20I/Solution%20Architecture.jpg)
-  - [ ] [Project Design Phase - II](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20II)
+  - [x] [Project Design Phase - II](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20II)
     - [x] [Customer Journey Map](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20II/Customer%20Journey%20Map.png)
-    - [ ] Functional Requirements
-    - [ ] Data Flow Diagram
-    - [ ] Technology Architecture
-  - [ ] Project Planning Phase
-    - [ ] Milestone & Activity List
-    - [ ] Sprint Delivery Plan
+    - [x] [Functional and Non-Functional Requirements](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20II/Functional%20and%20Non-Functional%20Requirements.pdf)
+    - [x] [Data Flow Diagram & User Stories](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20II/Data%20Flow%20Diagram%20%26%20User%20Stories.pdf)
+    - [x] [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20II/Technology%20Architecture.png)
+  - [x] [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
+    - [x] [Project Plan](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Project%20Plan.pdf)
 - [ ] Project Development Phase
   - [ ] Sprint 1
   - [ ] Sprint 2
@@ -80,23 +79,23 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Assignments 
 </h2>
 
-- [x] [Team Lead](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Team%20Lead)
-  - [x] [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Lead/Assignment%201.ipynb)
-  - [x] [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Lead/Assignment%202.ipynb)
-  - [x] [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Lead/Assignment%203.ipynb)
-  - [x] [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Lead/Assignment%204.ipynb)
-- [x] [Team Member 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Team%20Member%201)
-  - [x] [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%201/Assignment%201.ipynb)
-  - [x] [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%201/Assignment_2.ipynb)
-  - [x] [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%201/Assignment_3.ipynb)
-  - [x] [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%201/Assignment_4.ipynb)
-- [x] [Team Member 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Team%20Member%202)
-  - [x] [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%202/Assignment%201.ipynb)
-  - [x] [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%202/Assignment%202.ipynb)
-  - [x] [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%202/Assignment%203.ipynb)
-  - [x] [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%202/Assignment_4.ipynb)
-- [x] [Team Member 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Team%20Member%203)
-  - [x] [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%203/Assignment%201.ipynb)
-  - [x] [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%203/ASSIGNMENT_2.ipynb)
-  - [x] [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%203/ASSIGNMENT_3.ipynb)
-  - [x] [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Team%20Member%203/ASSIGNMENT_4.ipynb)
+- [x] [Team Lead](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Nishanth%20R%20J)
+  - [x] [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Nishanth%20R%20J/Assignment%201.ipynb)
+  - [x] [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Nishanth%20R%20J/Assignment%202.ipynb)
+  - [x] [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Nishanth%20R%20J/Assignment%203.ipynb)
+  - [x] [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Nishanth%20R%20J/Assignment%204.ipynb)
+- [x] [Team Member 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Dineshkumar%20E)
+  - [x] [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Dineshkumar%20E/Assignment%201.ipynb)
+  - [x] [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Dineshkumar%20E/Assignment_2.ipynb)
+  - [x] [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Dineshkumar%20E/Assignment_3.ipynb)
+  - [x] [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Dineshkumar%20E/Assignment_4.ipynb)
+- [x] [Team Member 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Hari%20Haran%20S)
+  - [x] [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Hari%20Haran%20S/Assignment%201.ipynb)
+  - [x] [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Hari%20Haran%20S/Assignment%202.ipynb)
+  - [x] [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Hari%20Haran%20S/Assignment%203.ipynb)
+  - [x] [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Hari%20Haran%20S/Assignment_4.ipynb)
+- [x] [Team Member 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Assignments/Lokesh%20Raj%20D)
+  - [x] [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Lokesh%20Raj%20D/Assignment%201.ipynb)
+  - [x] [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Lokesh%20Raj%20D/ASSIGNMENT_2.ipynb)
+  - [x] [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Lokesh%20Raj%20D/ASSIGNMENT_3.ipynb)
+  - [x] [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Assignments/Lokesh%20Raj%20D/ASSIGNMENT_4.ipynb)
