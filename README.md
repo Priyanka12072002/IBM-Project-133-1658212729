@@ -65,13 +65,14 @@
     - [x] [Data Flow Diagram & User Stories](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20II/Data%20Flow%20Diagram%20%26%20User%20Stories.pdf)
     - [x] [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%20II/Technology%20Architecture.png)
   - [x] [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
-    - [x] [Project Plan](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Project%20Plan.pdf)
+    - [x] [Milestone & Activity List](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20%26%20Activity%20List.pdf)
+    - [x] [Sprint Delivery Plan](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan.pdf)
 - [ ] [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Development)
   - [x] [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Development/Sprint%201)
-  - [ ] Sprint 2
-  - [ ] Sprint 3
+  - [x] [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Development/Sprint%202)
+  - [x] [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Development/Sprint%203)
   - [ ] Sprint 4
-- [ ] Final Project
+- [ ] Final Deliverables
 <br>
 
 
