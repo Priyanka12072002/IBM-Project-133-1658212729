@@ -67,12 +67,12 @@
   - [x] [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
     - [x] [Milestone & Activity List](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20%26%20Activity%20List.pdf)
     - [x] [Sprint Delivery Plan](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan.pdf)
-- [ ] [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Development)
+- [x] [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Development)
   - [x] [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Development/Sprint%201)
   - [x] [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Development/Sprint%202)
   - [x] [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Development/Sprint%203)
-  - [ ] Sprint 4
-- [ ] Final Deliverables
+  - [x] [Sprint 4](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Project%20Development/Sprint%204)
+- [x] [Final Deliverables](https://github.com/IBM-EPBL/IBM-Project-133-1658212729/tree/main/Final%20Deliverables)
 <br>
 
 
